@@ -1,5 +1,5 @@
 create database oficina;
-drop database oficina;
+
 use oficina;
 
 -- criar tabela cliente
